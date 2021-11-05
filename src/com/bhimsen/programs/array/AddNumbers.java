@@ -9,6 +9,7 @@ public class AddNumbers {
         List<Integer> integers = Arrays.asList(1, 2, 3, 4, 5);
         System.out.println(add(ar));
         System.out.println(sum(integers));
+        System.out.println("10");
 
     }
 
