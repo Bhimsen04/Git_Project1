@@ -5,6 +5,8 @@ public class AddNames {
         System.out.println(addNames("bhimsen" , "Garg"));
         System.out.println(addNames("Hello" , "g"));
         System.out.println(addNames("Rajat" , "garg"));
+        System.out.println(addNames("Virat" , "garg"));
+
     }
 
     private static String addNames(String firstname, String lastname) {
