@@ -11,7 +11,6 @@ public class AddNumbers {
         System.out.println(add(ar));
         System.out.println(sum(integers));
         System.out.println("10");
-        // hello g
 
     }
 
