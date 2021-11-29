@@ -7,6 +7,7 @@ public class AddNames {
         System.out.println(addNames("Rajat" , "garg"));
         System.out.println(addNames("Virat" , "garg"));
         String player = "Sachin";
+        System.out.println("Latest from Git");        
 
     }
 
