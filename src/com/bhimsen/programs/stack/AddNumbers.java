@@ -4,7 +4,7 @@ public class AddNumbers {
     public static void main(String[] args) {
         int i = 5;
         System.out.println(add(i));
-        System.out.println();
+        System.out.println("stack class from Git");
     }
 
     private static int add(int i) {
